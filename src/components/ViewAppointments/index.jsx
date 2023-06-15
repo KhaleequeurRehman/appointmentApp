@@ -9,6 +9,7 @@ import { LocalizationProvider } from '@mui/x-date-pickers/LocalizationProvider';
 import { DatePicker } from '@mui/x-date-pickers/DatePicker';
 import moment from 'moment';
 import UpdateAppointmentModal from '../UpdateAppointmentModal';
+import { base_url } from '../../config';
 
 const ViewAppointments = () => {
 
