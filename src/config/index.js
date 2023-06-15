@@ -1,0 +1,1 @@
+export const base_url = 'https://sore-tan-walkingstick-wig.cyclic.app/api/v1/appointments'
